@@ -1,4 +1,4 @@
-# teamrunswithscissors-assbutt-shmeji
+# Shmeji for Assbutt GISH Mascot
 
 Requires Shimeji-ee https://kilkakon.com/shimeji/
 
